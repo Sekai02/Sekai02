@@ -1,4 +1,4 @@
-### I build stuff and solve problems...
+<p align="center">I build stuff and solve problems...</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
