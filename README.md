@@ -2,6 +2,6 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,bash,bootstrap,c,cs,cpp,css,express,git,github,githubactions,go,html,js,latex,linux,mysql,mongodb,nodejs,nginx,npm,postgres,pnpm,ts,vite,vue,vuetify&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,c,cs,cpp,go,nodejs,express,vite,vue,vuetify,bootstrap,mysql,postgres,mongodb,nginx,azure&theme=dark" />
   </a>
 </p>
