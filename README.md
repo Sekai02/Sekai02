@@ -1,7 +1,19 @@
-<p align="center">I build stuff and solve problems.</p>
+<h3 align="center">Hi there 👋</h3>
+
+<p align="center">I'm passionate about creating beautiful, fast, and reliable apps using modern web technologies.</p>
+
+<p align="center">Currently building real-time tracking systems based on <strong>BLE</strong> and <strong>RFID</strong> 🛰️</p>
+
+<p align="center">I love crafting seamless user experiences with:</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,c,cs,cpp,go,nodejs,express,vite,vue,vuetify,bootstrap,mysql,postgres,mongodb,nginx,azure&perline=9&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,vue,vite,capacitor&perline=9&theme=dark" />
   </a>
 </p>
+
+<p align="center">
+  <em>TypeScript • Vue.js • Vite • Capacitor</em>
+</p>
+
+<p align="center">🚀 Always learning, optimizing, and bringing ideas to life.</p>
