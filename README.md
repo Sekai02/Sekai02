@@ -6,9 +6,7 @@
 
 <p align="center">I enjoy diving into system design in my free time — exploring architecture, scalability, and robust engineering.</p>
 
-<p align="center">And when I’m not building, you’ll find me in Azeroth 🪄:</p>
-
-<p align="center">Love for the game, love for the craft.</p>
+<p align="center">And when I’m not building, you’ll find me in Azeroth.</p>
 
 <p align="center">Technologies I work with:</p>
 
