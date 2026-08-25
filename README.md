@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <em>TypeScript • Vue.js • Vite • Python • Django • Azure</em>
+  <em>TypeScript • Vue.js • Vite • Python • Django • FastAPI • Azure</em>
 </p>
 
 <p align="center">Always learning, optimizing, and bringing ideas to life.</p>
