@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,vue,vite,python,django,azure&perline=9&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,vue,vite,python,django,fastapi,azure&perline=9&theme=dark" />
   </a>
 </p>
 
